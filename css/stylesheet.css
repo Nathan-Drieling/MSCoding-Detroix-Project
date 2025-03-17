@@ -18,7 +18,7 @@ nav
 .flex-container
 {
   display: flex;
-  background-color: darkblue;
+  background-color: #0b0b31;
 }
 
 .flex-container>div
