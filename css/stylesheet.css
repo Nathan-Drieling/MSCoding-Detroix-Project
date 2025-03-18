@@ -71,3 +71,9 @@ a
 {
   
 }
+
+.DetroixFlexItems:nth-child(1)
+{
+  text-align: left;
+  width: 100%;
+}
