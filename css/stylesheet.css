@@ -37,7 +37,7 @@ a
 
 .flexItem:nth-child(1)
 {
-  padding-right: 400px;
+  align-items:end;
 }
 
 .DetroixPicture
