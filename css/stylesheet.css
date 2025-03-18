@@ -36,7 +36,8 @@ a
 
 .flexItem
 {
-  padding: 1px;
+  padding-top: 3px;
+  padding-bottom: 3px;
   text-align: center;
   color: white;
 }
