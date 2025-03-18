@@ -107,10 +107,14 @@ a
   width: 90%;
 }
 
+.ThreeGrayBottonsFlexBoxItems
+{
+  align-items: center;
+}
+
 .ThreeGrayButtons
 {
   background-color: darkgrey;
   padding: 20px;
   border-radius: 50%;
-  align-items: center;
 }
