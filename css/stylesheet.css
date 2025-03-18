@@ -84,6 +84,7 @@ a
 button
 {
   margin: 2px 2px;
+  border-radius: 2px;
 
   background-color: #0b0b31;
   color: white;
