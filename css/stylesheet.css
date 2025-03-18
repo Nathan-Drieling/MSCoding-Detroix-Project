@@ -37,7 +37,7 @@ a
 
 .flexItem:nth-child(1)
 {
-  width: 10px;
+  width: 100%;
 }
 
 .DetroixPicture
