@@ -25,6 +25,7 @@ a
 {
   display: flex;
   flex-direction: row;
+  width: 80%;
   background-color: #0b0b31;
 }
 
