@@ -18,14 +18,21 @@ nav
 .flex-container
 {
   display: flex;
+  flex-direction: row;
   background-color: #0b0b31;
 }
 
-.flex-container>div
+.flexItem
 {
-  margin: 1px;
+  padding: 1px;
   font-size: 20px;
+  text-align: center;
   color: white;
+}
+
+.flexItem:nth-child(2)
+{
+  width: 100px;
 }
 
 .DetroixPicture
