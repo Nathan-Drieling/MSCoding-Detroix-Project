@@ -110,7 +110,7 @@ a
 
 .ThreeGrayBottonsFlexBoxItems
 {
-  align-items: center;
+  /* align-items: center; */
 }
 
 .ThreeGrayButtons
