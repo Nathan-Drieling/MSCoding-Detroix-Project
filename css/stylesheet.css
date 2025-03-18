@@ -73,12 +73,16 @@ a
 .DetroixFlexItems
 {
   text-align: center;
-  justify-content: space-between;
-
 }
 
 .DetroixFlexItems:nth-child(1)
 {
   text-align: left;
   width: 90%;
+}
+
+button
+{
+  background-color: #0b0b31;
+  color: white;
 }
