@@ -61,6 +61,12 @@ a
   display: inline;
 }
 
+.DetroixFlexBox
+{
+  display: flex;
+  flex-direction: row;
+}
+
 .DetroixFlexItems
 {
   
