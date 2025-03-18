@@ -30,9 +30,9 @@ nav
   color: white;
 }
 
-.flexItem:nth-child(2)
+.flexItem:nth-child(1)
 {
-  width: 1000px;
+  padding-right: 100px;
 }
 
 .DetroixPicture
