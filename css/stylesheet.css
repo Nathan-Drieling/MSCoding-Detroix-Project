@@ -140,3 +140,10 @@ a
   border-left: 1px solid gray;
   border-right: 1px solid gray;
 }
+
+.SmartStrongStableButtons
+{
+  padding: 20px;
+  font-size: 16px;
+  border-radius: 12px;
+}
