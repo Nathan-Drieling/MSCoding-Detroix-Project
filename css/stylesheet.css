@@ -134,13 +134,13 @@ a
   border-right: 1px solid gray;
 }
 
-.SmartStrongStableFlexBoxItems:nth-child(2)
+/* .SmartStrongStableFlexBoxItems:nth-child(2)
 {
   border-left: 1px solid gray;
   border-right: 1px solid gray;
-}
+} */
 
-.SmartStrongStableFlexBoxItems:nth-child(3)
+/* .SmartStrongStableFlexBoxItems:nth-child(3)
 {
   border-left: 1px solid gray;
-}
+} */
