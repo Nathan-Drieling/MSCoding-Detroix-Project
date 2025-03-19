@@ -119,7 +119,7 @@ a
 {
   display: flex;
   flex-direction: row;
-  justify-content: left;
+  justify-content: space-between;
 
   margin-left: auto;
   margin-right: auto;
