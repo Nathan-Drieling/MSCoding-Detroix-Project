@@ -131,6 +131,8 @@ a
 .SmartStrongStableFlexBoxItems
 {
   font-size: 18px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .SmartStrongStableFlexBoxItems:nth-child(2)
