@@ -119,7 +119,7 @@ a
 {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: center;
 
   margin-left: auto;
   margin-right: auto;
@@ -131,7 +131,6 @@ a
 .SmartStrongStableFlexBoxItems
 {
   font-size: 18px;
-  width: 90%;
 }
 
 .SmartStrongStableFlexBoxItems:nth-child(2)
