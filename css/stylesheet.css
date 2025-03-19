@@ -125,4 +125,22 @@ a
   margin-left: auto;
   margin-right: auto;
   width: 90%;
+
+  border-top: 1px solid gray;
+}
+
+.SmartStrongStableFlexBoxItems:nth-child(1)
+{
+  border-right: 1px solid gray;
+}
+
+.SmartStrongStableFlexBoxItems:nth-child(2)
+{
+  border-left: 1px solid gray;
+  border-right: 1px solid gray;
+}
+
+.SmartStrongStableFlexBoxItems:nth-child(3)
+{
+  border-left: 1px solid gray;
 }
