@@ -159,10 +159,10 @@ a
 .ServicesOpportunitiesAndNewsSectionFlexBox
 {
   display: flex;
-  flex-direction: row;
+
   justify-content: space-between;
 
-  align-items: center;
+
 
   margin-left: auto;
   margin-right: auto;
@@ -175,6 +175,6 @@ a
   font-size: 16px;
   width: auto;
 
-  padding: 30px;
+  text-align: justify;
 
 }
