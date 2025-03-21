@@ -150,3 +150,27 @@ a
   color: white;
 }
 
+.ServicesOpprotunitiesNewsSection
+{
+  width: 100%;
+  background-color: #0b0b31;
+}
+
+.ServicesOpprotunitiesNewsFlexBox
+{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+
+.ServicesOpprotunitiesNewsFlexBoxItems
+{
+  color: white;
+  font-size: 16px;
+
+  
+}
