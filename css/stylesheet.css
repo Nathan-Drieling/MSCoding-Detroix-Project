@@ -156,7 +156,7 @@ a
   background-color: #0b0b31;
 }
 
-.ServicesOpportunitiesAndNewsFlexBox
+.ServicesOpportunitiesAndNewsSectionFlexBox
 {
   display: flex;
   flex-direction: row;
@@ -167,7 +167,7 @@ a
   width: 90%;
 }
 
-.ServicesOpportunitiesAndNewsFlexBoxItems
+.ServicesOpportunitiesAndNewsSectionFlexBoxItems
 {
   color: white;
   font-size: 16px;
