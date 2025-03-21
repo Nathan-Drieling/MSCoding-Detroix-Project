@@ -176,5 +176,8 @@ a
 
 .ServicesUnorderedList
 {
-  width: 50%;
+  list-style:armenian;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
 }
